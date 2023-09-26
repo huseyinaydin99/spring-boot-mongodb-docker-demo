@@ -1,6 +1,4 @@
-# springboot-mongodb-docker - Türkçe - English
-Deploying Spring Boot and MongoDB as Containers Using Docker and Docker Compose --
-### Docker Compose kullanarak Spring Boot uygulamasını Deploy et ve mongo db uygulamasını yayına al.! 
+# springboot-mongodb-docker
 
 **Steps & Commands - Adımlar ve Komutlar**
 
