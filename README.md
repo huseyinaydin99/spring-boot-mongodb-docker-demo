@@ -1,4 +1,4 @@
-# springboot-mongodb-docker
+# spring-boot-mongodb-docker
 
 **Steps & Commands - Adımlar ve Komutlar**
 
